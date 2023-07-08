@@ -1,0 +1,63 @@
+items:
+  - colors:
+      # Default colors
+      primary:
+        background: '#292C3E'
+        foreground: '#EBEBEB'
+
+      # Cursor colors
+      cursor:
+        text: '#FF261E'
+        cursor: '#FF261E'
+
+
+      # Normal colors
+      normal:
+        black: '#0d0d0d'
+        red: '#FF301B'
+        green: '#A0E521'
+        yellow: '#FFC620'
+        blue: '#1BA6FA'
+        magenta: '#8763B8'
+        cyan: '#21DEEF'
+        white: '#EBEBEB'
+
+      # Bright colors
+      bright:
+        black: '#6D7070'
+        red: '#FF4352'
+        green: '#B8E466'
+        yellow: '#FFD750'
+        blue: '#1BA6FA'
+        magenta: '#A578EA'
+        cyan: '#73FBF1'
+        white: '#FEFEF8'
+  - theme: Argonaut
+colors:
+  # Default colors
+  primary:
+    background: '#2E3440'
+    foreground: '#D8DEE9'
+
+  # Normal colors
+  normal:
+    black: '#3B4252'
+    red: '#BF616A'
+    green: '#A3BE8C'
+    yellow: '#EBCB8B'
+    blue: '#81A1C1'
+    magenta: '#B48EAD'
+    cyan: '#88C0D0'
+    white: '#E5E9F0'
+
+  # Bright colors
+  bright:
+    black: '#4C566A'
+    red: '#BF616A'
+    green: '#A3BE8C'
+    yellow: '#EBCB8B'
+    blue: '#81A1C1'
+    magenta: '#B48EAD'
+    cyan: '#8FBCBB'
+    white: '#ECEFF4'
+theme: Nord
